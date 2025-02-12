@@ -1,0 +1,16 @@
+export const publicDomains = new Set([
+  "gmail.com",
+  "yahoo.com",
+  "hotmail.com",
+  "outlook.com",
+  "aol.com",
+  "icloud.com",
+  "zoho.com",
+  "mail.com",
+  "gmx.com",
+  "protonmail.com",
+  "yandex.com",
+  "rediffmail.com",
+  "live.com",
+  "me.com",
+]);
